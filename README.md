@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Yash6382
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+// Print "Hello, World!" to the console
+#include <iostream>
+using namespace std;
 
-<!---
-Yash6382/Yash6382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+
